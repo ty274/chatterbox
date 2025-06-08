@@ -1,0 +1,12 @@
+CT angiography, CT colonography, CT myelography, CT urography
+CT enterography, CT arthrography, CT cholangiography, CT dacryocystography
+CT hysterosalpingography, CT pneumocolon, CT scanner, CT gantry
+CT detector, CT reconstruction, CT protocol, CT contrast
+CT slice, CT pitch, CT dose, CT window
+CT algorithm, CT artifact, Multi-slice CT, Dual-energy CT
+Cardiac CT, Coronary CT, Perfusion CT, Spectral CT, Spectral CT
+Cone-beam CT, Micro-CT, Ultra-high-resolution CT, Low-dose CT
+Chest CT, Abdominal CT, Pelvic CT, Head CT, Head CT
+Spine CT, Extremity CT, Sinus CT, Sinus CT, Temporal bone CT
+Cervical CT, Thoracic CT, CT-guided biopsy, CT-guided drainage
+CT-guided injection, CT-fluoroscopy, CT-PET, CT-MRI fusion
