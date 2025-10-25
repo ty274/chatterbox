@@ -1,0 +1,38 @@
+28 47, Oak Ridge Drive, Austin, Texas 7 8 7 4 5
+1 56, Maple Street, Portland, Oregon 9 7 2 0 5
+98 23, Sunset Boulevard, Los Angeles, California 9 0 2 1 0
+12 05, Washington Street, Boston, Massachusetts 0 2 1 1 8
+36 41, Cedar Lane, Miami, Florida 3 3 1 0 1
+7 82, Elm Street, Chicago, Illinois 6 0 6 1 4
+55 29, Mountain View Road, Phoenix, Arizona 8 5 0 1 6
+94, Harbor Drive, Seattle, Washington 9 8 1 0 9
+6 73, Willow Creek Circle, Nashville, Tennessee 3 7 2 0 1
+84 15, Riverside Drive, San Diego, California 9 2 1 0 1
+3 21, Forest Hills Boulevard, Atlanta, Georgia 3 0 3 0 9
+19 67, Spring Valley Road, Dallas, Texas 7 5 2 4 0
+4 56, Liberty Street, Philadelphia, Pennsylvania 1 9 1 0 6
+1 27, Birch Street, Toronto, Ontario M5V 2K3
+28 45, Granville Street, Vancouver, British Columbia V6H 3J4
+8 91, Rue Saint-Denis, Montreal, Quebec H2X 3L4
+34 56, 17th Avenue Southwest, Calgary, Alberta T2T 0A8
+67, Queen Street, Halifax, Nova Scotia B3H 2Y2
+15 23, Portage Avenue, Winnipeg, Manitoba R3G 0W4
+7 45, Bank Street, Ottawa, Ontario K1S 3V5
+2 98, Princess Street, Kingston, Ontario K7L 1B4
+43 12, Jasper Avenue, Edmonton, Alberta T5J 2W4
+1 56, Water Street, Saint John's, Newfoundland and Labrador A1C 1A9
+27 89, Broadway Avenue, Saskatoon, Saskatchewan S7J 0Z1
+94, Wellington Street, Charlottetown, Prince Edward Island C1A 7L1
+16 47, Notre-Dame Avenue, Sudbury, Ontario P3A 2T8
+23, Kensington Gardens, London W2 4QH
+1 56, Princes Street, Edinburgh EH2 4AD
+8 47, Corporation Street, Birmingham B4 6QX
+72, Bold Street, Liverpool L1 4HR
+2 91, Oxford Road, Manchester M13 9GP
+65, Park Street, Bristol BS1 5NT
+1 34, Queen Street, Cardiff CF10 2BH
+4 18, Union Street, Aberdeen AB11 6BR
+27, Grey Street, Newcastle upon Tyne NE1 6EE
+5 03, Argyle Street, Glasgow G2 8LZ
+89, Castle Street, Canterbury CT1 2QD
+2 16, High Street, Belfast BT1 2BE

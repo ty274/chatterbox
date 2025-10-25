@@ -2,8 +2,8 @@
 
 Generate audio files: 
 
-    python ./tts_batch.py --transcripts ./data/text/ct_transcript.txt --outputdir ./data/audio --audio_prompts AUDIO_CATALOG_FILE.json
-    python ./tts_batch.py --transcripts ./data/text/la_transcript.txt --outputdir ./data/audio2 --audio_prompts AUDIO_CATALOG_FILE.json --seed 100    
+    python ./tts_batch.py --transcripts ./data/text/abbr/ct_transcript.txt --outputdir ./data/audio --audio_prompts AUDIO_CATALOG_FILE.json
+    python ./tts_batch.py --transcripts ./data/text/abbr/la_transcript.txt --outputdir ./data/audio2 --audio_prompts AUDIO_CATALOG_FILE.json --seed 100    
 
 AUDIO_CATLOG_FILE.json is structured as follows: 
 
